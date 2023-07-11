@@ -6,11 +6,6 @@ StuffEverywhere is developed under the GPL v3.
 
 See LICENSE for additional licensing information.
 
-## Install
-There is currently only one way to obtain StuffEverywhere:
-
-* Checkout the source: "git clone git@bitbucket.org:4ourbit/stuffeverywhere.git" compile, and install it yourself.
-
 ## Building
 The software is developed with Android SDK Tools Revision 17.
 
